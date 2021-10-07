@@ -1,6 +1,5 @@
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
     <div class="col-lg-4 col-sm-6 mb-4">
-      <!-- Portfolio item 1-->
       <div class="portfolio-item">
         <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
           <div class="portfolio-hover">
